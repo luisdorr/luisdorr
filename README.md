@@ -40,7 +40,8 @@ I'm currently working as an infrastructure analyst at Unirede Soluções em Ti, 
 - Studying and practising for the EY Open Science Data Challenge Program.
 - Revising the database
 - Improving my skills with Zabbix
-- 
+- Waiting for the university semester to start
+
 ## :briefcase: Hard Skills
 
 #### Languages:
@@ -67,7 +68,7 @@ I'm currently working as an infrastructure analyst at Unirede Soluções em Ti, 
 </div>
 
 
-![Snake animation](https://github.com/luisdorr/luisdorr/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
