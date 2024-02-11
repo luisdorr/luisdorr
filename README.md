@@ -1,12 +1,12 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=luisdorr&color=5A4FCF"><br>
 
 <div align="center">
-    <font size="5">Hi there, I'm Luis Dorr :wave:</font>
+    <font size="10">Hi there, I'm Luis Dorr :wave:</font>
 </div>
 
 <div align="center">
   <a href="https://github.com/luisdorr">
-    <img align="center" src="7E266BE2-DA16-4911-843E-D819EAE98F82.jpeg" width="500">
+    <img align="center" src="eastward.gif" width="700">
   </a>
 </div>
 <br>
@@ -34,30 +34,28 @@ I'm a 20-year-old Brazilian. I'm studying Computer Science at University of Vale
 I love programming and all forms of art. I'm addicted to acquiring new knowledge and skills, as well as studying and understanding everything that involves computing or technology.
 
 ## :briefcase: Hard Skills
-####
-<div align="center">
 
+### Languages: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" />
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+#### Unit test: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="30" height="30"/>
+          
+#### Data analysis tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="30" height="30"/>       
 
-
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-</div>
+#### Containerisation:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="30" height="30"/>
+          
+#### Data Base:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="30" height="30"/>
+          
+#### Versioning: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="30" height="30"/>
+          
+#### IDEs: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30"/>         
+                 
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisdorr&show_icons=true&&hide_border=true&theme=dark) | ![Top langs commit](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luisdorr&hide=Html&theme=dark) | ![Top langs repo](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luisdorr&theme=dark) |
 | :-: | :-: | :-: |
@@ -65,11 +63,24 @@ I love programming and all forms of art. I'm addicted to acquiring new knowledge
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luisdorr&hide_border=true&theme=dark)](https://github.com/luisdorr) | ![Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisdorr&theme=dark) |
 | :-: | :-: |
 
+<div align="center">
+    
 |![Leetcode Stats](https://leetcard.jacoblin.cool/Luisdorr?theme=dark)|
 | :-: |
 
+</div>
 
 ## :seedling: Learning
+- Having my first contact with data science.
+- Studying and practising for the EY Open Science Data Challenge Program.
+- Revising the database
+- Improving my skills with Zabbix
+
+
+
+
+
+![Snake animation](https://github.com/seu-usuário-aqui/luisdorr/blob/output/github-contribution-grid-snake.svg)
 
 
 
