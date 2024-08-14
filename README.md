@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/luisdorr">
-    <img align="center" src="eastward.gif" width="700">
+    <img align="center" src="" width="700">
   </a>
 </div>
 <br>
