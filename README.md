@@ -29,11 +29,11 @@
 
 
 ## :nerd_face: About me
-I'm a 20-year-old Brazilian. I'm studying Computer Science at University of Vale do Rio dos Sinos(5th semester). I've been working as an Infra Analyst, as my first job in IT, although I've been trying to become a Developer, but without success. ;-;
+I'm a 22-year-old Brazilian. I am currently pursuing my studies in Computer Science at Universidade do Vale do Rio dos Sinos. 
 
-I love programming and all forms of art. I'm addicted to acquiring new knowledge and skills, as well as studying and understanding everything that involves computing or technology.
+Recently, I have had the opportunity to work at Dell, where I participated in the IT Academy project. During this project, I underwent extensive training and worked as a Full Stack Software Developer.
 
-I'm currently working as an infrastructure analyst at Unirede Soluções em Ti, being my first IT job.
+Currently, I am part of a team focused on DevOps/SRE where I provide support for an entire line of products at Dell, acting as the Point of Contact (POC) for these product teams in Brazil.
 
 ## :seedling: Learning
 - Having my first contact with data science.
