@@ -36,10 +36,8 @@ Recently, I have had the opportunity to work at Dell, where I participated in th
 Currently, I am part of a team focused on DevOps/SRE where I provide support for an entire line of products at Dell, acting as the Point of Contact (POC) for these product teams in Brazil.
 
 ## :seedling: Learning
-- Having my first contact with data science.
-- Studying and practising for the EY Open Science Data Challenge Program.
-- Revising the database
-- Improving my skills with Zabbix
+- Learning Spring Boot framework for Java
+- Studing Automation for GitLab Pipelines.
 - Waiting for the university semester to start
 
 ## :briefcase: Hard Skills
