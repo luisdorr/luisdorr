@@ -29,11 +29,11 @@
 
 
 ## :nerd_face: About me
-I'm a 22-year-old Brazilian. I am currently pursuing my studies in Computer Science at Universidade do Vale do Rio dos Sinos. 
+I'm currently a Software Developer at SAP, as an intern on the iXp programme.
 
-Recently, I have had the opportunity to work at Dell, where I participated in the IT Academy project. During this project, I underwent extensive training and worked as a Full Stack Software Developer.
+I'm a Computer Science student at the University of Vale do Rio dos Sinos and have previous experience at Dell, where I took part in the IT Academy project. During this period, I underwent extensive training and worked as a Full Stack Software Developer. Later, I joined a DevOps/SRE team, providing support for a range of products and acting as a Point of Contact (POC) for teams in Brazil.
 
-Currently, I am part of a team focused on DevOps/SRE where I provide support for an entire line of products at Dell, acting as the Point of Contact (POC) for these product teams in Brazil.
+I'm passionate about technology, software development and good engineering practices, always looking for continuous learning and challenges to boost my career.
 
 ## :seedling: Learning
 - Learning Spring Boot framework for Java
