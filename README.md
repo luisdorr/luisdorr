@@ -37,8 +37,8 @@ I'm passionate about technology, software development and good engineering pract
 
 ## :seedling: Learning
 - Learning Spring Boot framework for Java
-- Studing Automation for GitLab Pipelines.
-- Waiting for the university semester to start
+- Typescript & React 18.
+- LLM
 
 ## :briefcase: Hard Skills
 
